@@ -1,4 +1,4 @@
-## List of Usefull Forensic Tools
+## List of Some Usefull Forensic Tools
 
 | No. | Tool_Name | No. | Tool_Name | No. | Tool_Name |
 | ------ | ---- | ------ | ---- | ------ | ---- |
